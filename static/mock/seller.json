@@ -1,0 +1,6 @@
+{
+  "ret": true,
+  "data": {
+    "seller": {"id": 1, "name": "华电食堂商超", "desc": "食品、日用、水果、百货一应俱全", "avatar": "http://wuwangwo886.cn/market/static/imgs/dianpu.jpg", "extra": "品质保证、质优价廉", "minTotalPrice": 20}
+  }
+}
